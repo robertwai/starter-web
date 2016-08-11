@@ -21,3 +21,7 @@ Blah de blah on the hills of a blah di blah.
 ## Adding New Section
 
 Putting in some filler text
+
+### Copyright
+
+2016 Copyright Minions Inc.
