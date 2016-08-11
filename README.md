@@ -15,3 +15,5 @@ Even more examples for git training demos.
 This is a simple web project, which can be deployed on any web server.
 
 ## How to Contribute
+
+## Adding New Section
