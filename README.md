@@ -16,6 +16,7 @@ This is a simple web project, which can be deployed on any web server.
 
 ## How to Contribute
 
+Blah de blah on the hills of a blah di blah.
 
 ## Adding New Section
 
