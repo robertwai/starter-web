@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a sample website for the git hub Udemy course. More text on the end of this.
+Some further filler text for the rebasing example.
 
 ## Introduction
 
